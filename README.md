@@ -11,5 +11,4 @@ SYNOPSIS       python BBDetector/Predictions.py
 
 
 
-Dataset
-We used to evaluate BBDetector at Karonte dataset
+Dataset: we used to evaluate BBDetector at Karonte dataset
