@@ -1,0 +1,10 @@
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7000P-V1.3.1.64_10.1.36/KC_PRINT
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7000P-V1.3.1.64_10.1.36/KC_PRINT_R6900P
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7000P-V1.3.1.64_10.1.36/forked-daapd
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7000P-V1.3.1.64_10.1.36/genie_handler
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7000P-V1.3.1.64_10.1.36/wwan
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7000P-V1.3.1.64_10.1.36/wget
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7000P-V1.3.1.64_10.1.36/httpd
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7000P-V1.3.1.64_10.1.36/xagent_control
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7000P-V1.3.1.64_10.1.36/tcpdump
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7000P-V1.3.1.64_10.1.36/upAgent

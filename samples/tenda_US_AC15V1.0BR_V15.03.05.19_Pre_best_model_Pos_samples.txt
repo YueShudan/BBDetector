@@ -1,0 +1,2 @@
+/home/a123456/Desktop/GetRawFeatures/binaries/tenda/_US_AC15V1.0BR_V15.03.05.19/httpd
+/home/a123456/Desktop/GetRawFeatures/binaries/tenda/_US_AC15V1.0BR_V15.03.05.19/dhttpd
