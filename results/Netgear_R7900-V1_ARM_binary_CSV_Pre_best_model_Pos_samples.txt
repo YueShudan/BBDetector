@@ -1,0 +1,9 @@
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7900-V1_ARM_binary/forked-daapd
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7900-V1_ARM_binary/httpd
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7900-V1_ARM_binary/minidlna.exe
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7900-V1_ARM_binary/KC_PRINT
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7900-V1_ARM_binary/pppd
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7900-V1_ARM_binary/wget
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7900-V1_ARM_binary/upnpd
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7900-V1_ARM_binary/tcpdump
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7900-V1_ARM_binary/curl

@@ -1,0 +1,10 @@
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7000-V1.0.11.134_10.2.119/wwan
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7000-V1.0.11.134_10.2.119/tcpdump
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7000-V1.0.11.134_10.2.119/openvpn
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7000-V1.0.11.134_10.2.119/pppd
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7000-V1.0.11.134_10.2.119/nas_service
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7000-V1.0.11.134_10.2.119/leafp2p
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7000-V1.0.11.134_10.2.119/wget
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7000-V1.0.11.134_10.2.119/xagent_control
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7000-V1.0.11.134_10.2.119/upAgent
+/home/a123456/Desktop/GetRawFeatures/binaries/netgear/R7000-V1.0.11.134_10.2.119/httpd
