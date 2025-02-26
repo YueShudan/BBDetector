@@ -4,7 +4,9 @@ Repository Structure
 
 joblib_save: a border binary detection Model
 
-samples: Prediction samples and the results produced by the Model
+samples: Prediction samples
+
+results: The results produced by the Model
 
 Fig: Presentation of methods and evaluation results
 
