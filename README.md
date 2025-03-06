@@ -12,12 +12,6 @@ BBDetector is a multidimensional feature model-based method for border binary de
 
 ** Fig: Presentation of methods and evaluation results
 
-# How to Use
-
-Clone the repository:
-   git clone https://github.com/your-repo/BBDetector.git
-
-
 # Run BBDetector
 
 python BBDetector/Predictions.py
