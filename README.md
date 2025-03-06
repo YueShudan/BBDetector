@@ -1,6 +1,6 @@
-BBDetector is a border binary detection method based on a multidimensional feature model.
+# BBDetector is a border binary detection method based on a multidimensional feature model.
 
-Repository Structure
+## Repository Structure
 
 joblib_save: a border binary detection Model
 
@@ -10,7 +10,7 @@ results: The results produced by the Model
 
 Fig: Presentation of methods and evaluation results
 
-Run BBDetector
+# Run BBDetector
 
 python BBDetector/Predictions.py
                
@@ -18,4 +18,5 @@ Python BBDetector/analysis.py
 
 
 
-Dataset: we used to evaluate BBDetector at Karonte dataset
+# Dataset
+we used to evaluate BBDetector at Karonte dataset
